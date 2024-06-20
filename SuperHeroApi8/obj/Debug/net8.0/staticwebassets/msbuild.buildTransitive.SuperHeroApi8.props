@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="../buildMultiTargeting/SuperHeroApi8.props" />
+  <Import Project="..\buildMultiTargeting\SuperHeroApi8.props" />
 </Project>
