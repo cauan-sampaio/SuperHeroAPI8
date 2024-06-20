@@ -32,3 +32,4 @@
 /home/cauan/Documentos/GitHub/SuperHeroApi8/SuperHeroApi8/obj/Debug/net8.0/SuperHeroApi8.genruntimeconfig.cache
 /home/cauan/Documentos/GitHub/SuperHeroApi8/SuperHeroApi8/obj/Debug/net8.0/ref/SuperHeroApi8.dll
 /home/cauan/Documentos/GitHub/SuperHeroApi8/SuperHeroApi8/bin/Debug/net8.0/http-client.env.json
+/home/cauan/Documentos/GitHub/SuperHeroAPI8/SuperHeroApi8/obj/Debug/net8.0/SuperHeroApi8.sourcelink.json

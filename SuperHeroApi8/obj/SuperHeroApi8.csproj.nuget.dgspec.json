@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/cauan/Documentos/GitHub/SuperHeroApi8/SuperHeroApi8/SuperHeroApi8.csproj": {}
+    "/home/cauan/Documentos/GitHub/SuperHeroAPI8/SuperHeroApi8/SuperHeroApi8.csproj": {}
   },
   "projects": {
-    "/home/cauan/Documentos/GitHub/SuperHeroApi8/SuperHeroApi8/SuperHeroApi8.csproj": {
+    "/home/cauan/Documentos/GitHub/SuperHeroAPI8/SuperHeroApi8/SuperHeroApi8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/cauan/Documentos/GitHub/SuperHeroApi8/SuperHeroApi8/SuperHeroApi8.csproj",
+        "projectUniqueName": "/home/cauan/Documentos/GitHub/SuperHeroAPI8/SuperHeroApi8/SuperHeroApi8.csproj",
         "projectName": "SuperHeroApi8",
-        "projectPath": "/home/cauan/Documentos/GitHub/SuperHeroApi8/SuperHeroApi8/SuperHeroApi8.csproj",
+        "projectPath": "/home/cauan/Documentos/GitHub/SuperHeroAPI8/SuperHeroApi8/SuperHeroApi8.csproj",
         "packagesPath": "/home/cauan/.nuget/packages/",
-        "outputPath": "/home/cauan/Documentos/GitHub/SuperHeroApi8/SuperHeroApi8/obj/",
+        "outputPath": "/home/cauan/Documentos/GitHub/SuperHeroAPI8/SuperHeroApi8/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/cauan/.nuget/NuGet/NuGet.Config"
@@ -41,6 +41,20 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0-preview.5.24306.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0-preview.5.24306.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0-preview.5.24306.3, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
